@@ -1,11 +1,11 @@
 package com.izi.views;
 
-import java.awt.Color;
+import com.izi.helpers.CalculHelper;
+import com.izi.helpers.StdDraw;
+
+import java.awt.*;
 import java.math.BigDecimal;
 import java.math.MathContext;
-
-import calc.helpers.CalculHelper;
-import calc.helpers.StdDraw;
 
 public class PlotView {
 
